@@ -1,0 +1,54 @@
+[
+  {
+    "ProductId": 21,
+    "Barcode": 1234,
+    "BranchId": 0,
+    "CurrencyId": 0,
+    "DefaultBuyingPrice": 1,
+    "DefaultSellingPrice": 2,
+    "Description": "Red Apple",
+    "ProductCode": null,
+    "ProductImageUrl": null,
+    "ProductName": "Apple",
+    "UnitOfMeasureId": 1
+  },
+  {
+    "ProductId": 22,
+    "Barcode": 2345,
+    "BranchId": 0,
+    "CurrencyId": 0,
+    "DefaultBuyingPrice": 3,
+    "DefaultSellingPrice": 5,
+    "Description": "Native Orange",
+    "ProductCode": null,
+    "ProductImageUrl": null,
+    "ProductName": "Orange",
+    "UnitOfMeasureId": 1
+  },
+  {
+    "ProductId": 23,
+    "Barcode": 5431,
+    "BranchId": 0,
+    "CurrencyId": 0,
+    "DefaultBuyingPrice": 5,
+    "DefaultSellingPrice": 7,
+    "Description": "Native ",
+    "ProductCode": null,
+    "ProductImageUrl": null,
+    "ProductName": "Watermelon",
+    "UnitOfMeasureId": 1
+  },
+  {
+    "ProductId": 1021,
+    "Barcode": 423423,
+    "BranchId": 0,
+    "CurrencyId": 0,
+    "DefaultBuyingPrice": 7,
+    "DefaultSellingPrice": 10,
+    "Description": "yellow",
+    "ProductCode": null,
+    "ProductImageUrl": null,
+    "ProductName": "Pineapple",
+    "UnitOfMeasureId": 1
+  }
+]
